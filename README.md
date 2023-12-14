@@ -1,0 +1,2 @@
+# Finder
+yapay zeka destekl
