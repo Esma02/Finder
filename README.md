@@ -1,2 +1,2 @@
 # Finder
-yapay zeka destekl
+yapay zeka destekli fiyat karşıaştırma sitesi
